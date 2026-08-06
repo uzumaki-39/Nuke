@@ -20,7 +20,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ============= CONFIGURATION =============
-BOT_TOKEN = "8452361584:AAG0MaiU4l_HSJc4YHyXfA1PQmlIsCcHW7I"  # REPLACE WITH YOUR TOKEN
+BOT_TOKEN = "8940969112:AAGLNZK7nxxiZoEw3J2jU1g2jySQjUXbq9k"  # REPLACE WITH YOUR TOKEN
 BOT_OWNER = "NotYoursNaruto"  # Your username
 BOT_NAME = "ULTIMATE PHONE DESTROYER"
 VERSION = "V3.0"
